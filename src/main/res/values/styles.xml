@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <declare-styleable name="ColorCircleView">
+        <attr name="circle_color" format="color" />
+        <attr name="circle_stoken" format="dimension" />
+        <attr name="circle_progress" format="integer"/>
+        <attr name="circle_isAnime" format="boolean"/>
+        <attr name="circle_speed" format="integer"/>
+    </declare-styleable>
+
+</resources>
