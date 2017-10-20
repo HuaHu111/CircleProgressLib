@@ -52,7 +52,7 @@ dependencies {
         circleProgressView.setColor(Color.parseColor("#00ff00"));
   
   circle_stoken ： 进度条宽度<br>
-  circle_color  ： 进度条颜色<br/>
-  circle_progress： 进度条进度
+  circle_color  ： 进度条颜色<br>
+  circle_progress： 进度条进度<br>
   circle_isAnime ： 进度条是否开启动画
 	​
