@@ -10,7 +10,7 @@
 
 
 
-![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
+![image](https://github.com/HuaHu111/CircleProgressLib/blob/master/progress.gif)
 
 **Step 1.** Add the JitPack repository to your build file
 
