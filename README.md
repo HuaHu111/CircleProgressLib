@@ -8,6 +8,10 @@
 
 [![](https://jitpack.io/v/li-xiaojun/OkhttpDownloader.svg)](https://jitpack.io/#li-xiaojun/OkhttpDownloader)
 
+
+
+![image](https://github.com/Yesi-hoang/TaoBaoTopLine/blob/master/Gif/TaoBaoTopLineGif.gif)
+
 **Step 1.** Add the JitPack repository to your build file
 
 ```groovy
